@@ -1,2 +1,2 @@
 # Doctors_shifts_scheduling
-Doctors' shifts scheduling optimization for the cardiology ward of Molinette Hospital (Torino, Italy) using linear mathematic programming model
+Doctors' shifts scheduling optimization for the cardiology ward of Molinette Hospital (Torino, Italy) using linear mathematic programming model based on Branch&Bound on XPRESS solver.
